@@ -11,7 +11,7 @@ tags:
 ## RECIPES
 - [Beef Jerky](beef-jerky)
 - Monster Cookies
-Main Dishes  
+###Main Dishes  
 - Beef Stroganoff
 - Breakfast Casserole
 - Chicken Enchiladas
@@ -24,7 +24,7 @@ Main Dishes
 - Veggie Chili Mac
 - Veggie Meatballs
 - Veggie Stuffed Enchiladas
-Salad Dressings  
+###Salad Dressings  
 - Betty’s Salad Dressing
 - Pecan Dressing
 - Side Dishes and Salads
@@ -33,7 +33,7 @@ Salad Dressings
 - Pineapple Salsa
 - Rosemary Focaccia
 - Zucchini Pie
-Wing Sauces  
+###Wing Sauces  
 - BBQ Sauce
 - Korean BBQ Wing Sauce
 - Oriental Wings
