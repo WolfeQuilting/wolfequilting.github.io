@@ -9,7 +9,7 @@ tags:
   - recipes
 ---
 ## RECIPES
-* [Beef Jerky](/recipes/beef-jerky)
+* [Beef Jerky](recipes/beef-jerky)
 Monster Cookies
 Main Dishes
 Beef Stroganoff
