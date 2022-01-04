@@ -10,7 +10,7 @@ tags:
 ---
 ## RECIPES
 - [Beef Jerky](beef-jerky)
-- Monster Cookies
+- Monster Cookies  
 ###Main Dishes  
 - Beef Stroganoff
 - Breakfast Casserole
@@ -23,7 +23,7 @@ tags:
 - Vegetable Beef Soup
 - Veggie Chili Mac
 - Veggie Meatballs
-- Veggie Stuffed Enchiladas
+- Veggie Stuffed Enchiladas  
 ###Salad Dressings  
 - Betty’s Salad Dressing
 - Pecan Dressing
@@ -32,7 +32,7 @@ tags:
 - Mostaccioli Salad
 - Pineapple Salsa
 - Rosemary Focaccia
-- Zucchini Pie
+- Zucchini Pie  
 ###Wing Sauces  
 - BBQ Sauce
 - Korean BBQ Wing Sauce
