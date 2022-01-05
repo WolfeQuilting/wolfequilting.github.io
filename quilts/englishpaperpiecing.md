@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "English Paper Piceing"
 date: 2022-01-4T05:34:30-06:00
 permalink: /quilts/englishpaperpiecing/
