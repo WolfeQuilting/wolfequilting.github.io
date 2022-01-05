@@ -1,5 +1,5 @@
 ---
-layout: page
+#layout: page
 title: "Wolfe Quilting"
 date: 2022-01-4T05:34:30-06:00
 ---
