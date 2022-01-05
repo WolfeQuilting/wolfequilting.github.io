@@ -32,9 +32,9 @@ tags:
 - [Mostaccioli Salad](mostaccioli-salad)
 - [Pineapple Salsa](pineapple-salsa)
 - [Rosemary Focaccia](rosemary-focaccia)
-- Zucchini Pie  
+- [Zucchini Pie](zucchini-pie)
 ### Wing Sauces  
-- BBQ Sauce
-- Korean BBQ Wing Sauce
-- Oriental Wings
-- My Hot Sauce
+- [BBQ Sauce](bbq-sauce)
+- [Korean BBQ Wing Sauce](korean-bbq)
+- [Oriental Wings](oriental-wings)
+- [My Hot Sauce](kellis-hot-sauce)
