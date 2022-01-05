@@ -1,6 +1,5 @@
 Quilt Backing
 ---
-layout: page
 title: "Quilt Backing Prep"
 date: 2022-01-4T05:34:30-06:00
 permalink: /quilts/quilt-backing/
