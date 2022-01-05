@@ -2,7 +2,7 @@
 layout: page
 title: "Enchilada Sauce"
 date: 2022-01-4T05:34:30-06:00
-permalink: /recipes/
+permalink: /recipes/enchilada-sauce/
 categories:
   - recipes
 tags:
