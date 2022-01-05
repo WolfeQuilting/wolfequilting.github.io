@@ -14,5 +14,6 @@ tags:
 - [Marine T-shirt Quilt](marine-t-shirt-quilt)  
 - [English Paper Piecing](englishpaperpiecing)
 - [Blue Marking Pen Removal](blue-marking-pen-removal)
+- [Quilt Backing Prep](quilt-backing)
 
 ![GIR Done](assets/GIRdone.jpg)
