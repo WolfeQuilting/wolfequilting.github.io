@@ -2,7 +2,7 @@
 layout: page
 title: "Veggie Stuffed Enchiladas"
 date: 2022-01-4T05:34:30-06:00
-permalink: /recipes/
+permalink: /recipes/veggie-stuffed-enchiladas/
 categories:
   - recipes
 tags:
