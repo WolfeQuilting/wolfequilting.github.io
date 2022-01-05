@@ -2,7 +2,7 @@
 layout: page
 title: "Hash Brown Quiche"
 date: 2022-01-4T05:34:30-06:00
-permalink: /recipes/
+permalink: /recipes/hash-brown-quiche/
 categories:
   - recipes
 tags:
