@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Roasted Cherry Tomato Soup"
 date: 2022-01-4T05:34:30-06:00
 permalink: /recipes/roasted-cherry-tomato-soup/
