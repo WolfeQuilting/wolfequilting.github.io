@@ -1,6 +1,5 @@
-blue-marking-pen-removal
 ---
-layout: page
+#layout: page
 title: "Blue Marking Pen Removale"
 date: 2018-07-29T05:34:30-06:00
 permalink: /quilts/blue-marking-pen-removal/
