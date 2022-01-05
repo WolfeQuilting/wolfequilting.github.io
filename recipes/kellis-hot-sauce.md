@@ -2,7 +2,7 @@
 layout: page
 title: "My Hot Sauce"
 date: 2022-01-4T05:34:30-06:00
-permalink: /recipes/
+permalink: /recipes/kellis-hot-sauce/
 categories:
   - recipes
 tags:
