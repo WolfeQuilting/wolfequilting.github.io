@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Unique Utility Quilter"
 date: 2019-10-9T05:34:30-06:00
 permalink: /quilts/unique-utility-quilter/
