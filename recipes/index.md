@@ -10,7 +10,7 @@ tags:
 ---
 ## RECIPES
 - [Beef Jerky](beef-jerky)
-- Monster Cookies  
+- [Monster Cookies](monster-cookies)  
 ### Main Dishes  
 - Beef Stroganoff
 - Breakfast Casserole
