@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Wolfe QUilting"
+date: 2022-01-4T05:34:30-06:00
+---
+![Wolfe Quilting](assets/cropped-cropped-wolfequilting-01.png)
 ## Welcome to Wolfe Quilting
 
 What a crazy ride it's been, getting a web site set up...again. 
