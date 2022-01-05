@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Starry Eyed Shop Hop Tote"
 date: 2022-01-4T05:34:30-06:00
 permalink: /quilts/starry-eyed-shop-hop-tote/
