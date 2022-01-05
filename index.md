@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Wolfe QUilting"
+title: "Wolfe Quilting"
 date: 2022-01-4T05:34:30-06:00
 ---
 ![Wolfe Quilting](assets/cropped-cropped-wolfequilting-01.png)
