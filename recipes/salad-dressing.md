@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Salad Dressing"
 date: 2022-01-4T05:34:30-06:00
 permalink: /recipes/salad-dressing/
