@@ -9,7 +9,7 @@ tags:
   - quilts
 ---
 ## Quilts and Such
-![Irish Lilacs](assets/cropped-IrishLilacs.jpg)
+![Irish Lilacs](assets/cropped-IrishLilacs-sm.jpg)
 
 - [Starry Eyed Shop Hop Tote](starry-eyed-shop-hop-tote)
 - [Marine T-shirt Quilt](marine-t-shirt-quilt)  
