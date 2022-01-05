@@ -2,7 +2,7 @@
 layout: page
 title: "Pecan Dressing"
 date: 2022-01-4T05:34:30-06:00
-permalink: /recipes/
+permalink: /recipes/pecan-dressing/
 categories:
   - recipes
 tags:
