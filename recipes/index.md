@@ -12,8 +12,8 @@ tags:
 - [Beef Jerky](beef-jerky)
 - [Monster Cookies](monster-cookies)  
 ### Main Dishes  
-- Beef Stroganoff
-- Breakfast Casserole
+- [Beef Stroganoff](beef-stroganoff)
+- [Breakfast Casserole](breakfast-casserole)
 - Chicken Enchiladas
 - Chicken Poblano Cornbread Casserole
 - Hash-Brown Quiche
