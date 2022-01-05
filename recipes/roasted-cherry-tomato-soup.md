@@ -39,7 +39,7 @@ shriveled and they are just starting to brown. About 20 minutes, but watch them 
 When the tomatoes are cooked, add them to the soup. Stir to combine and heat through.  
 Remove the bay left prior to serving.
 
-Notes:
+**Notes:**
 
 The 8 cups of liquid can be half broth (I like beef broth in this soup,  
 but veggie or chicken would work too) and the rest water.  
