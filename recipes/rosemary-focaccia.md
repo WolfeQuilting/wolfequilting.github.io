@@ -2,7 +2,7 @@
 layout: page
 title: "Rosemary Focaccia"
 date: 2022-01-4T05:34:30-06:00
-permalink: /recipes/
+permalink: /recipes/rosemary-focaccia/
 categories:
   - recipes
 tags:
