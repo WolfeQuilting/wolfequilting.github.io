@@ -20,10 +20,10 @@ tags:
 - [Roasted Cherry Tomato Soup](roasted-cherry-tomato-soup)
 - [Turkey Tetrazzini](turkey-tetrazzini)
 - [Turkey Quiche](turkey-quiche)
-- Vegetable Beef Soup
-- Veggie Chili Mac
-- Veggie Meatballs
-- Veggie Stuffed Enchiladas  
+- [Vegetable Beef Soup](vegetable-beef-soup)
+- [Veggie Chili Mac](veggie-chili-mac)
+- [Veggie Meatballs](veggie-meatballs)
+- [Veggie Stuffed Enchiladas](veggie-stuffed-enchiladas)
 ### Salad Dressings  
 - Betty’s Salad Dressing
 - Pecan Dressing
