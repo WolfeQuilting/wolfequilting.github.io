@@ -16,10 +16,10 @@ tags:
 - [Breakfast Casserole](breakfast-casserole)
 - [Chicken Enchiladas](chicken-enchiladas)
 - [Chicken Poblano Cornbread Casserole](chicken-poblano-cornbread-casserole)
-- Hash-Brown Quiche
-- Roasted Cherry Tomato Soup
-- Turkey Tetrazzini
-- Turkey Quiche
+- [Hash-Brown Quiche](hash-brown-quiche)
+- [Roasted Cherry Tomato Soup](roasted-cherry-tomato-soup)
+- [Turkey Tetrazzini](turkey-tetrazzini)
+- [Turkey Quiche](turkey-quiche)
 - Vegetable Beef Soup
 - Veggie Chili Mac
 - Veggie Meatballs
