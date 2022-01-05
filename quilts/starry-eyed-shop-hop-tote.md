@@ -31,11 +31,11 @@ Size 18 x 17 x 3 (approximately)
 - 30 inches of cording (for the tie)
 - Rotary cutter, cutting mat, ruler, scissors, and matching thread.
 
-##Techniques Used:
+## Techniques Used:
 
 Rotary cutting, piecing, and machine applique.
 
-##Cutting Instructions
+## Cutting Instructions
 
 Remove selvages from the blue piece of fabric.
 
@@ -54,9 +54,9 @@ Cut from non-border side of blue piece (1 1/4 yard long edge):
 Trace one large star and 3 small stars onto the fusible. Iron the large one onto the white  
 fabric and the small ones onto the red fabric. Cut out the stars on the lines.
 
-##Sewing
+## Sewing
 
-###Straps
+### Straps
 
 Cut the 2 blue 5 inch strips to 36″ in length. With wrong side up, iron the pieces in half  
 (long sides together). Open the strip up and working with one side at a time, fold in one  
