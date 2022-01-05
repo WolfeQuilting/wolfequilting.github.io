@@ -8,7 +8,7 @@ tags:
   - sauce
 ---
 ## ORIENTAL WINGS
-My family loves this so much I usually double it. It's not only create on wing, but  
+My family loves this so much I usually double it. It's not only create on wings, but  
 noodles as well. 
 
 - 1 cup chopped green onion
