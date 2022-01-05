@@ -8,6 +8,7 @@ categories:
 tags:
   - recipes
 ---
+![Recipes](assets/HalloweenAll.jpg)
 ## RECIPES
 - [Beef Jerky](beef-jerky)
 - [Monster Cookies](monster-cookies)  
