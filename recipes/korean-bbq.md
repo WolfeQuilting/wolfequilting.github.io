@@ -2,7 +2,7 @@
 layout: page
 title: "Korean BBQ Sauce"
 date: 2022-01-4T05:34:30-06:00
-permalink: /recipes/
+permalink: /recipes/korean-bbq/
 categories:
   - recipes
 tags:
