@@ -14,8 +14,8 @@ tags:
 ### Main Dishes  
 - [Beef Stroganoff](beef-stroganoff)
 - [Breakfast Casserole](breakfast-casserole)
-- Chicken Enchiladas
-- Chicken Poblano Cornbread Casserole
+- [Chicken Enchiladas](chicken-enchiladas)
+- [Chicken Poblano Cornbread Casserole](chicken-poblano-cornbread-casserole)
 - Hash-Brown Quiche
 - Roasted Cherry Tomato Soup
 - Turkey Tetrazzini
