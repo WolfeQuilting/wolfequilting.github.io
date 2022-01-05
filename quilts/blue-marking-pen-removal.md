@@ -11,7 +11,7 @@ tags:
 ## Blue Marking Pen 
 Blue marking pens are the standard marking tool in quilting. They are not the only one,  
 just the one I see used most often. Especially for light fabrics. This is my project after  
-watching Judi Madsen's iQuilt class !["Quilting Makes a Difference"](https://www.americanquilter.com/iquilt/11002-quilting-makes-a-difference-course.html)
+watching Judi Madsen's iQuilt class ["Quilting Makes a Difference"](https://www.americanquilter.com/iquilt/11002-quilting-makes-a-difference-course.html)
 
 ![Top marked and ready for quilting](assets/blue-loaded.jpg)
 
