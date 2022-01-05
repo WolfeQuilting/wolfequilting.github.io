@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "Recipes"
+title: "Beef Stroganoff"
 date: 2022-01-4T05:34:30-06:00
 permalink: /recipes/
 categories:
   - recipes
 tags:
-  - recipes
+  - beef
 ---
 ## BEEF STROGANOFF
 - 2 medium yellow onions, chopped
