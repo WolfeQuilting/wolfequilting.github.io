@@ -12,7 +12,8 @@ This page gives some tips for quilters about how to prepare their backing for
 quilting on a longarm machine. Some of these things are specific to me and  
 my machine, but the rest should apply to most quilters.
 
-Backings with no seams are fantastic! [Helios](https://heliosstitchesnstuff.com/t/helios-quilt-backs) (my favorite quilt shop)  has many to choose from and they can ship directly to you. The best way to prepare  
+Backings with no seams are fantastic! [Helios](https://heliosstitchesnstuff.com/t/helios-quilt-backs) (my favorite quilt shop)  
+has many to choose from and they can ship directly to you. The best way to prepare  
 this type of  backing for your quilter is to pre-wash it. I personally recommend  
 washing in warm water and drying  on medium to remove the sizing.
 
