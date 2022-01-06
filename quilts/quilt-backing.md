@@ -19,13 +19,15 @@ washing in warm water and drying  on medium to remove the sizing.
 
 If you want to use up the rest of the fabric you bought then you'll be piecing the backing.  
 The easiest for the longarmer is to have the seams going horizontal to the rollers.  
-Vertical seams will cause bulk to accumulate as the quilt is rolled up and that bulk can cause odd puckering.
+Vertical seams will cause bulk to accumulate as the quilt is rolled up and that bulk can  
+cause odd puckering.
 
 ![Backing Seam Placement](assets/backing-300x190.png)
 
-The  maximum width I can currently handle on my frame is a 120 inch top. Piece the backing so  
-that it is 94 inches wide and 102 inches long with the pieced seams running the shorter length.  
-In general, a quilter needs 6-8 extra inches in length for attaching to the rollers.  
-I'm using the equivalent of "red snappers" and they require the extra fabric to go under the snappers  
-on the top and bottom of the quilt backing. Ideally we also like to have 6-8 extra inches wide  
+The  maximum width I can currently handle on my frame is a 120 inch top. Piece the  
+backing so that it is 94 inches wide and 102 inches long with the pieced seams  
+running the shorter length. In general, a quilter needs 6-8 extra inches in length  
+for attaching to the rollers.  I'm using the equivalent of "red snappers" and they  
+require the extra fabric to go under the snappers on the top and bottom of the  
+quilt backing. Ideally we also like to have 6-8 extra inches wide  
 so there is room to maneuver if the top isn't completely square.
