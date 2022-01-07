@@ -17,8 +17,6 @@ tags:
 - 3/4 cup chicken broth
 - Salt and pepper as needed
 
-Heat a saucepan, spray with avocado oil and sauté the garlic until just golden.  
-Add the rest of the ingredients and bring to a boil. Reduce to low and let simmer  
-for 10 minutes to allow the flavors to meld. Makes about 2 cups of sauce.
+Heat a saucepan, spray with avocado oil and sauté the garlic until just golden. Add the rest of the ingredients and bring to a boil. Reduce to low and let simmer for 10 minutes to allow the flavors to meld. Makes about 2 cups of sauce.
 
 If it’s too spicy, you could use 1/2 teaspoon chili powder and just 1 tablespoon of adobo.
