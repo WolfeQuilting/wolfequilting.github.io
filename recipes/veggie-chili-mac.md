@@ -9,9 +9,7 @@ tags:
   - veggie
 ---
 ## VEGGIE CHILI MAC
-Warning, this makes a **LOT**, but it freezes well. I like to freeze individual  
-portions, they make a quick meal. It is **very important** to use low or no salt for as  
-many of the cans a possible. You can always add salt afterwards if you need to.
+Warning, this makes a **LOT**, but it freezes well. I like to freeze individual portions, they make a quick meal. It is **very important** to use low or no salt for as many of the cans a possible. You can always add salt afterwards if you need to.
 
 - 1 can sweet corn (or small bag of frozen)
 - 3 bell peppers, diced (use a variety of colors)
@@ -29,8 +27,6 @@ many of the cans a possible. You can always add salt afterwards if you need to.
 - 2 – 8.5 oz pkgs Barilla Ready Pasta (fully cooked)
 - 5 cups shredded pepper jack cheese, divided
 
-In a 6 quart slow cooker or Instant Pot, stir together corn, bell peppers, onions, tomatoes, beans,  
-seasonings, and water. Cover and cook on low for 6 hours (I used medium in the Instant Pot).
+In a 6 quart slow cooker or Instant Pot, stir together corn, bell peppers, onions, tomatoes, beans, seasonings, and water. Cover and cook on low for 6 hours (I used medium in the Instant Pot).
 
-Stir in pasta and cheese. Cover and continue to cook for 15 minutes or until everything is heated.  
-Serve topped with green onions or corn chips.
+Stir in pasta and cheese. Cover and continue to cook for 15 minutes or until everything is heated. Serve topped with green onions or corn chips.
