@@ -20,20 +20,12 @@ tags:
 - 2 eggs
 - 1 cup parmesan cheese
 
-Place the dried lentils in to a sauce pan over meadium-high heat. Add 4 cups of water.  
-Bring to a boil, then simmer uncovered for about 20 minutes. Lentils should be  
-tender but not mushy. Drain excess water.
+Place the dried lentils in to a sauce pan over meadium-high heat. Add 4 cups of water. Bring to a boil, then simmer uncovered for about 20 minutes. Lentils should be tender but not mushy. Drain excess water.
 
 Place mushrooms in food processor and pulse until they are about pea sized.
 
-Heat 1 Tbs oil in a frying pan over medium-high heat. When hot, add onion and sauté  
-until translucent. Add garlic and mushrooms. Cook until moisture and evaporated.  
-Remove from skillet and add back to the food processor along with the lentils.  
-Pulse until combined.
+Heat 1 Tbs oil in a frying pan over medium-high heat. When hot, add onion and sauté until translucent. Add garlic and mushrooms. Cook until moisture and evaporated. Remove from skillet and add back to the food processor along with the lentils. Pulse until combined.
 
-In a large bowl, combine food processor mixture with bread crumbs, Italian seasoning,  
-cayenne, salt, eggs, and parmesan cheese. Stir to combine. Roll the mixture into 2 Tbs balls.  
-Should have about 24, arrange them on a baking sheet lined with parchment paper.  
-Lightly brush or spray the meatballs with avocado or olive oil.
+In a large bowl, combine food processor mixture with bread crumbs, Italian seasoning, cayenne, salt, eggs, and parmesan cheese. Stir to combine. Roll the mixture into 2 Tbs balls. Should have about 24, arrange them on a baking sheet lined with parchment paper. Lightly brush or spray the meatballs with avocado or olive oil.
 
 Bake the meatballs for 30 at 400F, rotating the meatballs half way through.
