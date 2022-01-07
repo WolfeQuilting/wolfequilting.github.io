@@ -27,22 +27,14 @@ tags:
 - 1 cup grated Parmesan cheese
 - 1 cup panko bread crumbs
 
-In a large pan (this makes a LOT) melt the butter over medium-high heat.  
-Add the mushrooms, salt and pepper, sauté for several minutes. Add the garlic  
-and let it get to know the mushrooms a bit. Then add the wine and simmer until  
-the liquid is reduced by half.
+In a large pan (this makes a LOT) melt the butter over medium-high heat. Add the mushrooms, salt and pepper, sauté for several minutes. Add the garlic and let it get to know the mushrooms a bit. Then add the wine and simmer until the liquid is reduced by half.
 
-Sprinkle the flour into the mix and stir to make a roux.  
-Pour in the broth and stir cooking until slightly thickened.
+Sprinkle the flour into the mix and stir to make a roux. Pour in the broth and stir cooking until slightly thickened.
 
-Reduce the heat to medium low and stir in the cream cheese cubes.  
-Once it starts to melt add the turkey, olives, peas, bacon, and other cheeses, stirring to combine.
+Reduce the heat to medium low and stir in the cream cheese cubes. Once it starts to melt add the turkey, olives, peas, bacon, and other cheeses, stirring to combine.
 
-Add the nearly cooked spaghetti and stir it all together. It should be a little loose,  
-if not, add another cup of broth or water. The spaghetti will soak it up in the oven.
+Add the nearly cooked spaghetti and stir it all together. It should be a little loose, if not, add another cup of broth or water. The spaghetti will soak it up in the oven.
 
-Pour the whole thing into a large baking dish and sprinkle the panko over the top.  
-Optional: spray the crumbs with avocado oil or olive oil to help them brown up.
+Pour the whole thing into a large baking dish and sprinkle the panko over the top. Optional: spray the crumbs with avocado oil or olive oil to help them brown up.
 
-Bake at 350 for 30-45 minutes, until the dish is bubbling in the center and the crumbs are brown.  
-Depending on how deep your pan is, this could take closer to an hour.
+Bake at 350 for 30-45 minutes, until the dish is bubbling in the center and the crumbs are brown. Depending on how deep your pan is, this could take closer to an hour.
