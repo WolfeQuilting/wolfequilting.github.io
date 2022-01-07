@@ -16,11 +16,9 @@ tags:
 - Sliced carrots (and celery if desired)
 - Cabbage
 
-The amount of ingredients depends on the size of your pot. Seriously,  
-make this as big or small as you want. I grew up on this soup and love it!
+The amount of ingredients depends on the size of your pot. Seriously, make this as big or small as you want. I grew up on this soup and love it!
 
-Boil the bay leaf, pepper corns, stew meat and fat for 2 hours. (Slow boil, not rolling.)  
-For a clearer broth, skim the “stuff” off the surface of the soup as it boils.
+Boil the bay leaf, pepper corns, stew meat and fat for 2 hours. (Slow boil, not rolling.) For a clearer broth, skim the “stuff” off the surface of the soup as it boils.
 
 Add the potatoes, carrots and celery and cook for another 1/2 hour.
 
