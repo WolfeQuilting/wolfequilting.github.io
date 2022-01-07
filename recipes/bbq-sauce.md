@@ -20,5 +20,4 @@ This is my mom's modification of a BBQ weenie recipe from the Hunter (SD) Church
 - 2 tsp dry mustard
 - 1 tsp pepper
 
-Combine and simmer for 20 minutes to thicken slightly. We use this on ribs,  
-but it would be good on wings as well.
+Combine and simmer for 20 minutes to thicken slightly. We use this on ribs, but it would be good on wings as well.
