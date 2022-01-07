@@ -9,8 +9,7 @@ tags:
   - veggie
 ---
 ## ZUCCHINI PIE
-This is my favorite recipe for the large zucchini that you find in the garden. It’s a light and  
-amazing side dish. It would be good with some added bacon or ham if you want a main meal.
+This is my favorite recipe for the large zucchini that you find in the garden. It’s a light and amazing side dish. It would be good with some added bacon or ham if you want a main meal.
 
 - 1 large onion, finely chopped
 - 1/2 cup oil
@@ -23,6 +22,6 @@ amazing side dish. It would be good with some added bacon or ham if you want a m
 - Also, I use whatever chunk of cheese I happen to have in the refrigerator,  
 - Gruyere and Jarlsberg are wonderful in this recipe.
 
-In a bowl , combine the first four ingredients. Stir in zucchini, biscuit mix, and cheese.  
-Pour into two greased 9″ pie plates. (Or one deep dish round)  
+In a bowl , combine the first four ingredients. Stir in zucchini, biscuit mix, and cheese. Pour into two greased 9″ pie plates. (Or one deep dish round) 
+
 Bake at 350′ for 35-40 minutes or until golden brown.
