@@ -17,6 +17,4 @@ tags:
 - 1 tsp cayanne pepper
 - 1 stick melted butter
 
-I used to make my hot sauce with all of that, then I got lazy.  
-Now, I just melt a stick of butter and add Sriracha and whatever  
-other hot sauces I have in the fridge until I get to 2 cups of sauce.
+I used to make my hot sauce with all of that, then I got lazy. Now, I just melt a stick of butter and add Sriracha and whatever other hot sauces I have in the fridge until I get to 2 cups of sauce.
