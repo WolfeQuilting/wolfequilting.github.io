@@ -15,7 +15,7 @@ This is my modification of a Korean BBQ recipe that was shared with me.
 - 1/4 cup Hoisin Sauce
 - 2.5 Tbs Chinese cooking wine
 - 3 Tbs Soy sauce (or a combination of soy and coconut aminos)
-v2 Tbs toasted sesame oil
+- 2 Tbs toasted sesame oil
 - 3/4 Tbs fish sauce
 
 I use the stick (immersion) blender to mix it all together. Add more sugar if it’s too hot.
