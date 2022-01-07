@@ -14,8 +14,7 @@ tags:
 - 2 Tbs. balsamic vinegar
 - 2 Tbs. extra-virgin olive oil
 
-In a saucepan over medium-high heat, combine pecans, cayenne, salt, and pepper.  
-Cook, stirring constantly, until pecans begin to toast, 4-5 min.; set aside to cool.
+In a saucepan over medium-high heat, combine pecans, cayenne, salt, and pepper. Cook, stirring constantly, until pecans begin to toast, 4-5 min.; set aside to cool.
 
 In a bowl, whisk together pecans, balsamic vinegar and olive oil until smooth.
 
