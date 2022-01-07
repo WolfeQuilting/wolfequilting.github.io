@@ -9,8 +9,7 @@ tags:
 ---
 ## CHICKEN POBLANO CORNBREAD CASSEROLE
 
-This is a great dish for a potluck. It makes a good size and you can make  
-the cornbread crust as thick as you want by using 2 boxes instead of one.
+This is a great dish for a potluck. It makes a good size and you can make the cornbread crust as thick as you want by using 2 boxes instead of one.
 
 - 2 Tbs butter
 - 2-3 poblano peppers seeded and chopped
@@ -27,16 +26,14 @@ the cornbread crust as thick as you want by using 2 boxes instead of one.
 
 Cook onion and poblanos in butter until tender. Stir in flour and seasoning until blended.
 
-Gradually stir in the milk. Bring to a boil, stirring constantly until thickened.  
-Stir in the cream cheese until blended. Add the pepper jack, chicken, and green chilies and heat through.
+Gradually stir in the milk. Bring to a boil, stirring constantly until thickened. Stir in the cream cheese until blended. Add the pepper jack, chicken, and green chilies and heat through.
 
-In a medium mixing bowl, add the onion mixture, cream cheese, 1 Tbs milk and cumin.  
-Mix that together and then add the chicken and stir to combine.
+In a medium mixing bowl, add the onion mixture, cream cheese, 1 Tbs milk and cumin. Mix that together and then add the chicken and stir to combine.
 
 Grease a 9×13 baking pan and spread the chicken mixture over the bottom.
 
-Prepare the cornbread according to the package instructions. Spread evenly over the chicken mixture.  
+Prepare the cornbread according to the package instructions. Spread evenly over the chicken mixture. 
+
 Bake uncovered at 350°F for 35-40 minutes. Toothpick should come out clean.
 
-I have made this without the chicken by stirring a third box  
-of prepared cornbread mix into the cream cheese mixture. 
+I have made this without the chicken by stirring a third box of prepared cornbread mix into the cream cheese mixture. 
