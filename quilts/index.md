@@ -10,6 +10,7 @@ tags:
 ## Quilts and Such
 ![Irish Lilacs](assets/cropped-IrishLilacs-sm.jpg)
 
+- [Scrappy Quilt #1](scrappy1)
 - [Starry Eyed Shop Hop Tote](starry-eyed-shop-hop-tote)
 - [Marine T-shirt Quilt](marine-t-shirt-quilt)  
 - [English Paper Piecing](englishpaperpiecing)
