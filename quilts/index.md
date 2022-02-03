@@ -11,6 +11,7 @@ tags:
 ![Irish Lilacs](assets/cropped-IrishLilacs-sm.jpg)
 
 - [Scrappy Quilt #1](scrappy1)
+- [Scrappy Quilt #2](scrappy2)
 - [Starry Eyed Shop Hop Tote](starry-eyed-shop-hop-tote)
 - [Marine T-shirt Quilt](marine-t-shirt-quilt)  
 - [English Paper Piecing](englishpaperpiecing)
