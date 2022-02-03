@@ -41,11 +41,11 @@ You wouldn't have to do that, but it makes putting the blocks together really ea
 
 ![Playing with Scraps](assets/scrap2-9.jpg)
 
-When they come off the machine I keep the jump stiches between the two halves connect:
+When they come off the machine I keep the jump stiches between the two halves connected:
 
 ![Playing with Scraps](assets/scrap2-8.jpg)
 
-This way I can't flip one of them around on accident. I nest the center seams and push them through the machine again. It goes very fast. 
+This way I can't flip one of them around on accident. I nest the center seams and push them through the machine again. It goes very quickly. 
 
 This is what 4 yards of fabric can produce:
 
@@ -53,4 +53,4 @@ This is what 4 yards of fabric can produce:
 
 It wasn't enough to be a twin sized quilt, so I went back to my stash and guess what? I found two MORE yards of each color! Guess I was thinking ahead when I bought it back in 2019. 
 
-P.S. can you spot the rotated block? 
+P.S. Can you spot the rotated block? 
