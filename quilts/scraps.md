@@ -24,4 +24,6 @@ The other part of my system involves dividing the scraps between dark and light.
 
 ![Light/Dark Block](assets/lightdark.jpg)
 
-If I have a qustion about a fabric, I put it next to this block and stand back at least 10 feet and determine what the new fabric is based on how to looks next to this block. Someday I will expandmy collect and start dividing the darks into color families like Bonnie and others do. But for now, dark and light is enough. 
+If I have a qustion about a fabric, I put it next to this block and stand back at least 10 feet and determine what the new fabric is based on how to looks next to this block. 
+
+Someday I will expand my collect and start dividing the darks into color families like Bonnie and others do. But for now, dark and light is enough. 
