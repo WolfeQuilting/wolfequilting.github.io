@@ -15,4 +15,4 @@ The January Guild newsletter brought a new request for blocks. This time it was 
 
 ![Third Scrappy Block](assets/scrap03-1.jpg)
 
-The next dilema was whether to put the blocks "on point" or not. I decided I liked the look of on point, but I'm not sure I'll do another one that way. It was a bit of a pain because then everything is on the bias. Quilting was evem harder because of the bias.  
+The next dilema was whether to put the blocks ["on point"](onpoint) or not. I decided I liked the look of on point, but I'm not sure I'll do another one that way. It was a bit of a pain because then everything is on the bias. Quilting was evem harder because of the bias.  
