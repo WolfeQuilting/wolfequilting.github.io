@@ -54,3 +54,6 @@ This is what 4 yards of fabric can produce:
 It wasn't enough to be a twin sized quilt, so I went back to my stash and guess what? I found two MORE yards of each color! Guess I was thinking ahead when I bought it back in 2019. 
 
 P.S. Can you spot the rotated block? 
+
+This next one is a version with just light and dark. I had just finished cutting up some new scraps, so it was easy to find 4 of the same fabric. 
+![Playing with Scraps](assets/scrap2-12.jpg)
