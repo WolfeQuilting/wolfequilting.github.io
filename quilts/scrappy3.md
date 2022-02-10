@@ -27,7 +27,7 @@ The next dilema was whether to put the blocks ["on point"](onpoint) or not.
 
 ![Scrappy Blocks](assets/scrap03-4.jpg)
 
-I decided I liked the look of on point, but I'm not sure I'll do another one that way. It was a bit of a pain because then everything is on the bias. Quilting was evem harder because of the bias.  
+I decided I liked the look of on point, but I'm not sure I'll do another one that way. It was a bit of a pain because everything is on the bias. Quilting was even harder because of the bias.  
 
 ![Scrappy Blocks](assets/scrap03-5.jpg)
 
