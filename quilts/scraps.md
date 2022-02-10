@@ -27,3 +27,6 @@ The other part of my system involves dividing the scraps between dark and light.
 If I have a qustion about a fabric, I put it next to this block and stand back at least 10 feet and determine what the new fabric is based on how to looks next to this block. 
 
 Someday I will expand my collect and start dividing the darks into color families like Bonnie and others do. But for now, dark and light is enough. 
+
+The next part of the plan is the ender/leaders. I've decided that the block in my [first scappy quilt](scrappy1) will be my default block. So, next to my sewing machine I have a stack of either light 2.5 x 4.5" bricks or dark ones. Then any time I need to end a line of sewing I grab a pair and push it through. Then the block goes into the bin for 4.5 x 4.5" light squares. 
+
