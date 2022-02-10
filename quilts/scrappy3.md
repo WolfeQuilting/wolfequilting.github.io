@@ -23,7 +23,7 @@ Next thing I knew I had enough of those blocks to make a quilt. And using up the
 
 ![Scrappy Block](assets/scrap03-3.jpg)
 
-The next dilema was whether to put the blocks ["on point"](onpoint) or not. 
+The next dilema was whether to put the blocks ["on point"](/quilts/onpoint) or not. 
 
 ![Scrappy Blocks](assets/scrap03-4.jpg)
 
