@@ -13,7 +13,7 @@ FEBRUARY 9, 2022 BY KELLI
 
 I am on a mission to use all (yes all) of my fabric to make quilts for charities. Since I've collected a lot of non-matching fabric, I decided to do scrappy quilts. I've tried to get on the scrappy train a few times, but always failed. I finally realized it was because I did not have a plan or system. Well, now I do. 
 
-I've followed [Bonnie Hunter](https://www.quiltville.com/index.html) for a long time. Bonnie is amazing and [she is where](https://quiltville.com/scrapusersystempf.html) I would like to get to some day. But, I needed to start smaller. Then my quilt guild sent out a request for blocks that became my [first scappy quilt](scrappy1). It was a perfect fit for me because I had decided to start creating my scraps in 3 sizes: 
+I've followed [Bonnie Hunter](https://www.quiltville.com/index.html) for a long time. Bonnie is amazing and [she is where](https://quiltville.com/scrapusersystempf.html) I would like to get to some day. But, I needed to start smaller. Then my quilt guild sent out a request for blocks that became my [first scappy quilt](quilts/scrappy1). It was a perfect fit for me because I had decided to start creating my scraps in 3 sizes: 
 - 2.5 x 2.5"
 - 2.5 x 4.5" (brick)
 - 4.5 x 4.5". 
@@ -28,9 +28,9 @@ If I have a qustion about a fabric, I put it next to this block and stand back a
 
 Someday I will expand my collect and start dividing the darks into color families like Bonnie and others do. But for now, dark and light is enough. 
 
-The next part of the plan is the ender/leaders. I've decided that the block in my [first scrappy quilt](scrappy1) will be my default block. So, next to my sewing machine I have a stack of either light 2.5 x 4.5" bricks or dark ones.
+The next part of the plan is the ender/leaders. I've decided that the block in my [first scrappy quilt](quilts/scrappy1) will be my default block. So, next to my sewing machine I have a stack of pairs of either light 2.5 x 4.5" bricks or dark ones.
 
 ![Light Block Stack](assets/lightstack.jpg)
 
-Then any time I need to end a line of sewing I grab a pair and push it through. Then the block goes into the bin for 4.5 x 4.5" light squares. 
+Then any time I need to end a line of sewing I grab a pair and push it through. Then the block goes into the bin for 4.5 x 4.5" light squares. When I have enough blocks I'll try another arrangement.
 
