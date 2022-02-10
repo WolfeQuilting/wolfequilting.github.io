@@ -17,7 +17,7 @@ The January Guild newsletter brought a new request for blocks. This time it was 
 
 That block was alternated with a plainer block of light fabric surrounding a 4.5 x 4.5" block. 
 
-![Scrap Block #3a](assets/scrap03-2)
+![Scrap Block #3a](assets/scrap03-2.jpg)
 
 Next thing I knew I had enough of those blocks to make a quilt. And using up the light fabric that I had a lot of, I'm on a roll now!
 
