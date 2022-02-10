@@ -10,6 +10,7 @@ tags:
 ## Quilts and Such
 ![Irish Lilacs](assets/cropped-IrishLilacs-sm.jpg)
 
+- [Scraps](scraps)
 - [Scrappy Quilt #1](scrappy1)
 - [Scrappy Quilt #2](scrappy2)
 - [Scrappy Quilt #3](scrappy3)
