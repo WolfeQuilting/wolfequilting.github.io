@@ -14,6 +14,9 @@ tags:
 - [Scrappy Quilt #1](scrappy1)
 - [Scrappy Quilt #2](scrappy2)
 - [Scrappy Quilt #3](scrappy3)
+
+- [Quick On Point](onpoint)
+
 - [Starry Eyed Shop Hop Tote](starry-eyed-shop-hop-tote)
 - [Marine T-shirt Quilt](marine-t-shirt-quilt)  
 - [English Paper Piecing](englishpaperpiecing)
