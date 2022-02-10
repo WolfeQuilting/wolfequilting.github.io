@@ -28,5 +28,9 @@ If I have a qustion about a fabric, I put it next to this block and stand back a
 
 Someday I will expand my collect and start dividing the darks into color families like Bonnie and others do. But for now, dark and light is enough. 
 
-The next part of the plan is the ender/leaders. I've decided that the block in my [first scappy quilt](scrappy1) will be my default block. So, next to my sewing machine I have a stack of either light 2.5 x 4.5" bricks or dark ones. Then any time I need to end a line of sewing I grab a pair and push it through. Then the block goes into the bin for 4.5 x 4.5" light squares. 
+The next part of the plan is the ender/leaders. I've decided that the block in my [first scrappy quilt](scrappy1) will be my default block. So, next to my sewing machine I have a stack of either light 2.5 x 4.5" bricks or dark ones.
+
+![Light Block Stack](assets/lightstack.jpg)
+
+Then any time I need to end a line of sewing I grab a pair and push it through. Then the block goes into the bin for 4.5 x 4.5" light squares. 
 
