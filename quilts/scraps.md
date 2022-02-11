@@ -34,3 +34,8 @@ The next part of the plan is the ender/leaders. I've decided that the block in m
 
 Then any time I need to end a line of sewing I grab a pair and push it through. Then the block goes into the bin for 4.5 x 4.5" light squares. When I have enough blocks I'll try another arrangement.
 
+Here's my stack of bins:
+
+![Scrap Storage](assets/scrapstorage1.jpg)
+
+
