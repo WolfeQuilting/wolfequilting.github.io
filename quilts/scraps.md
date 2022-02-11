@@ -16,7 +16,7 @@ I am on a mission to use all (yes all) of my fabric to make quilts for charities
 I've followed [Bonnie Hunter](https://www.quiltville.com/index.html) for a long time. Bonnie is amazing and [she is where](https://quiltville.com/scrapusersystempf.html) I would like to get to some day. But, I needed to start smaller. Then my quilt guild sent out a request for blocks that became my [first scappy quilt](https://wolfequilting.com/quilts/scrappy1/). It was a perfect fit for me because I had decided to start creating my scraps in 3 sizes: 
 - 2.5 x 2.5"
 - 2.5 x 4.5" (brick)
-- 4.5 x 4.5". 
+- 4.5 x 4.5"
 
 These sizes work well together and I have already made several quilts from them. 
 
@@ -34,7 +34,7 @@ The next part of the plan is the ender/leaders. I've decided that the block in m
 
 Then any time I need to end a line of sewing I grab a pair and push it through. Then the block goes into the bin for 4.5 x 4.5" light squares. When I have enough blocks I'll try another arrangement.
 
-Here's my stack of bins:
+Here's the stack of bins my scraps move through:
 
 ![Scrap Storage](assets/scrapstorage1.jpg)
 
