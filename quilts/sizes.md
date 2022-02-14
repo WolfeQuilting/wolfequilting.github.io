@@ -13,5 +13,5 @@ FEBRUARY 14, 2022 BY KELLI
 
 I found myself having to constantly figure out how many blocks I'd need to make a twin or full sized scrap quilt. I finally put it into a spreadsheet and let it do the work. I'll add to this as I need more sizes.
 
-![Quilt Sizes](assets/quiltsizes.jpg)
+![Quilt Sizes](assets/quiltsizes.JPG)
 
