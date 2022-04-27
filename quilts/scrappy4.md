@@ -1,6 +1,6 @@
 ---
 title: "Scrappy Quilt #4"
-date: 2022-22-4T05:34:30-06:00
+date: 2022-22-04T05:34:30-06:00
 permalink: /quilts/scrappy4/
 categories:
   - quilts
