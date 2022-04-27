@@ -24,3 +24,5 @@ Here are the two ways I've arranged these blocks:
 ![Second Scrappy Quilt](assets/scrap3.jpg)
 
 I will try more arrangements with the next one. 
+
+![Third Scrappy Quilt](assets/scrap1-3.jpg)
