@@ -22,4 +22,3 @@ This results in a 10 x 10 finished block.
 Here is one finished:
 
 ![Fourth Scrappy Quilt](assets/scrap4-2.jpg)
-
