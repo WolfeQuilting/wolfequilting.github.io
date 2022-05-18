@@ -17,7 +17,7 @@ Start with the stuffing (which could be used to stuff bell peppers or whatever y
 - 1 bunch green onions, chopped
 - 1 can Rotel Original diced tomatoes and green chilies
 - 1 can (1 + 3/4 cup) veggie or chicken broth
-- 1-2 tablespoons [taco seasoning](taco-seasoning)
+- 1-2 tablespoons [taco seasoning](../taco-seasoning)
 - 0-2 cans black beans, rinsed and drained
 - 1 can corn, rinsed and drained
 - 2 cups shredded pepper jack cheese
