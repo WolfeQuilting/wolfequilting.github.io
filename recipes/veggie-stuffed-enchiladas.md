@@ -21,7 +21,7 @@ Start with the stuffing (which could be used to stuff bell peppers or whatever y
 - 0-2 cans black beans, rinsed and drained
 - 1 can corn, rinsed and drained
 - 2 cups shredded pepper jack cheese
-- 1 can [enchilada sauce](enchilada-sauce) (I like it hot)
+- 1 can [enchilada sauce](/recipes/enchilada-sauce) (I like it hot)
 - Burrito sized tortilla shells
 
 In a large pan stir together rice, bell pepper, onions, tomatoes, broth, and taco seasoning. Bring to a simmer, cover, and cook on low for 20 minutes, or until rice is cooked.
