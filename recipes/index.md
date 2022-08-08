@@ -24,6 +24,7 @@ tags:
 - [Veggie Chili Mac](veggie-chili-mac)
 - [Veggie Meatballs](veggie-meatballs)
 - [Veggie Stuffed Enchiladas](veggie-stuffed-enchiladas)
+- [Zucchini Quiche](zucchini-quiche)
 ### Salad Dressings  
 - [Betty’s Salad Dressing](salad-dressing)
 - [Pecan Dressing](pecan-dressing)
