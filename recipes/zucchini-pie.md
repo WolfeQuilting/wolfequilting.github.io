@@ -18,9 +18,9 @@ This is my favorite recipe for the large zucchini that you find in the garden. I
 - 3 cups shredded zucchini
 - 1 cup biscuit/baking mix
 - 1 cup (4 oz) shredded cheddar cheese
-- I use the Cuisinart grating blade and run the onion, zucchini, and cheese through it.  
-- Also, I use whatever chunk of cheese I happen to have in the refrigerator,  
-- Gruyere and Jarlsberg are wonderful in this recipe.
+
+I use the Cuisinart grating blade and run the onion, zucchini, and cheese through it.  
+Also, I use whatever chunk of cheese I happen to have in the refrigerator, Gruyere and Jarlsberg are wonderful in this recipe.
 
 In a bowl , combine the first four ingredients. Stir in zucchini, biscuit mix, and cheese. Pour into two greased 9″ pie plates. (Or one deep dish round) 
 
