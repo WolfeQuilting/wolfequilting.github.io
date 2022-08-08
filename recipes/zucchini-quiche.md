@@ -25,6 +25,6 @@ In a large skillet, saute the zucchini, shallots, and tomatoes until softened an
 
 In a bowl, whisk the cream, eggs, and spices.  
 
-Press the pie crust into a 9″ pie plates. (Option to brush an egg white over the crust.) Sprinkle a small amount of cheese over the crust. Add the zucchini mixture, draining if needed. Pour the egg mixture over the pie and top with the remianing cheese. 
+Press the pie crust into a 9″ pie plates. (Option to brush an egg white over the crust.) Sprinkle a small amount of cheese over the crust. Add the zucchini mixture, draining if needed. Pour the egg mixture over the pie and top with the remaining cheese. 
 
 Bake at 375′ for 40-45 minutes or until golden brown.
