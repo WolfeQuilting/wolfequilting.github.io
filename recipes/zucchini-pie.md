@@ -12,7 +12,7 @@ tags:
 This is my favorite recipe for the large zucchini that you find in the garden. It’s a light and amazing side dish. It would be good with some added bacon or ham if you want a main meal.
 
 - 1 large onion, finely chopped
-- 1/2 cup oil
+- 1/3 cup oil
 - 1/2 cup grated Parmesan Cheese
 - 4 eggs, beaten
 - 3 cups shredded zucchini
