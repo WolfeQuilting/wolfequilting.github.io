@@ -29,6 +29,7 @@ tags:
 - [Betty’s Salad Dressing](salad-dressing)
 - [Pecan Dressing](pecan-dressing)
 ### Side Dishes and Salads
+- [Banana Bread](banana-bread)
 - [Corn Bread](corn-bread)
 - [Mostaccioli Salad](mostaccioli-salad)
 - [Pineapple Salsa](pineapple-salsa)
