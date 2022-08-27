@@ -27,7 +27,7 @@ Heat 2 teaspoons of the oil in a large soup pot. Add the carrots, fennel, pepper
 
 Heat the oven to 475°F. Toss the tomatoes with the remaining oil and place cut side down on a large rimmed cookie sheet. Be sure the rim is sufficient, you don’t want to lose the juices, those will go into the soup. Bake the tomatoes until the skins are shriveled and they are just starting to brown. About 20 minutes, but watch them carefully.
 
-When the tomatoes are cooked, add them to the soup. Stir to combine and heat through. Remove the bay left prior to serving.
+When the tomatoes are cooked, add them to the soup. Stir to combine and heat through. Remove the bay leaf prior to serving.
 
 **Notes:**
 
